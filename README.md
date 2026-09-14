@@ -73,48 +73,56 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
-<img width="1600" height="996" alt="image" src="https://github.com/user-attachments/assets/1a8c46ad-aa03-4d4b-8ef1-459da6058956" />
+<img width="1600" height="866" alt="image" src="https://github.com/user-attachments/assets/8ae58871-4cb3-4dfc-a472-a739dc66d32c" />
+
 
 **INVERTING AMPLIFIER:**
 
   **CIRCUIT DIAGRAM**
-<img width="1600" height="1252" alt="image" src="https://github.com/user-attachments/assets/8bb9a34a-76c3-4241-8833-c40197e9eb84" />
+<img width="1600" height="996" alt="image" src="https://github.com/user-attachments/assets/db8a3b78-0ee7-4221-901f-08e8a5ac0e6d" />
+
 
 
   **MODEL GRAPH:**
-<img width="1599" height="921" alt="image" src="https://github.com/user-attachments/assets/dcc3f0d6-0eeb-4984-94af-08940f43e0ee" />
+<img width="1600" height="1252" alt="image" src="https://github.com/user-attachments/assets/454b96ca-cbc4-489e-9e2b-a251a39a5eb2" />
+
 
 
   **TABULATION:**
- <img width="862" height="1361" alt="image" src="https://github.com/user-attachments/assets/19726a9a-407c-4d52-9e6c-3bcebbd88f4f" />
+<img width="1599" height="921" alt="image" src="https://github.com/user-attachments/assets/a8233f48-83ff-4877-a5ea-eaa41eafb9af" />
+
 
 
 **MODEL CALCULATION:**
-<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/2273e699-396a-455c-beb5-25f4e84c3b5a" />
+<img width="862" height="1361" alt="image" src="https://github.com/user-attachments/assets/8c1b886d-8fdf-4c77-8b34-463beafbd81d" />
+
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
-<img width="1600" height="1326" alt="image" src="https://github.com/user-attachments/assets/f45a0b45-c71c-43c1-a267-937dcf4b3cb2" />
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/e6cd9843-8791-414f-9569-dbe2ddf1384a" />
 
 
   **MODEL GRAPH:**
-<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/21b2e1c9-2bc4-4428-8c4e-4cba5fd3e490" />
+<img width="1600" height="1326" alt="image" src="https://github.com/user-attachments/assets/601f148f-a125-4636-9518-e5216ccb9cdf" />
+
 
 
   **TABULATION:**
-<img width="1547" height="895" alt="image" src="https://github.com/user-attachments/assets/8076c697-f734-47f9-a48c-751349ddb668" />
+<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/b4314eb0-14bd-4158-b3a8-483eb96611b4" />
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
-<img width="1600" height="1259" alt="image" src="https://github.com/user-attachments/assets/b09aa5f8-b049-45db-9600-fd3049a7d5d6" />
+<img width="1600" height="1259" alt="image" src="https://github.com/user-attachments/assets/5065f3b2-6817-4ffe-91b8-05ae385df8f4" />
+
 
 
   **MODEL GRAPH:**
-<img width="1600" height="1012" alt="image" src="https://github.com/user-attachments/assets/689a4d32-13d2-4ba7-afe1-ded94ea424b0" />
+<img width="1547" height="895" alt="image" src="https://github.com/user-attachments/assets/d62c234d-5c5c-4b9f-ba5a-14ca4f31a117" />
+
 
 
   **TABULATION:**
-![Uploading image.png…]()
+<img width="1600" height="1012" alt="image" src="https://github.com/user-attachments/assets/3f97a740-795d-49e2-bdcf-956a707744aa" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
